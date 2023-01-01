@@ -1,0 +1,17 @@
+{
+  "name": "node-start",
+  "version": "1.0.0",
+  "description": "learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "kareem mahmoud",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
